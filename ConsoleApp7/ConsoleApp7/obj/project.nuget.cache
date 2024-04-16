@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zpbtuw/SNGw4Rduvg7jRbKPTleQGeP3EYIB7iTnqAHtobkc7TtVgbKZMU5bTRkkkzBvQ+spwfpyTCa+Ru/aztg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ca.r214.09\\Desktop\\Rauf\\ConsoleApp7\\ConsoleApp7\\ConsoleApp7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ca.r214.09\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0\\microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "C:\\Users\\ca.r214.09\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ca.r214.09\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\ca.r214.09\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
